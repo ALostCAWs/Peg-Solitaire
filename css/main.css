@@ -1,0 +1,28 @@
+.container {
+   width: 17%;
+   display: flex;
+   margin: auto;
+}
+
+.left-container,
+.right-container {
+   margin-top: 4.7em;
+}
+
+.left-container {
+   margin-right: .3em;
+}
+
+.right-container {
+   margin-left: .3em;
+}
+
+button {
+   height: 30px;
+   width: 30px;
+   margin-top: .5em;
+}
+
+button.clickable {
+   background-color: aqua;
+}
